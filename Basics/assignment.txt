@@ -1,0 +1,62 @@
+﻿Homework 1
+
+1. What is Data?
+ 	Data is any piece of information that computer program store, modify and processes.
+
+2. What is a data type?
+	Data type tells what kind of valuewe put inside the box.
+
+3. What is a variable?
+	Variables is a named box/container is used to store value. 
+
+4. Why do we need variables in Java?
+	To avoid the repetations. Suppose if we used a value multiple places in a program, and later its value changes. Then that time we need to change that value one by one in all places so, instead of that we have used variables.
+	
+5. What is an identifier?
+	The name of a variable is called as identifier.
+
+6. Is every variable name an identifier?
+	Yes.
+
+7. Can a variable name start with a number?
+	No.
+	
+8. Can a variable name contain spaces?
+	No.
+
+9. Which data type is used for whole numbers?
+	Byte, short, int, long.
+
+10. Which data type is used for decimal numbers?
+	Float, long.
+
+11. Which data type is used for true/false values?
+	Boolean.
+
+12. Which data type is used for a single character?
+	Char.
+
+13. Which data type is used for text?
+	String.
+
+14. What is the difference between char and String ?
+	Char data type is used for storing single character and String is used to store text and sequence of characters
+
+15. What is the difference between = and == ? Write only basic meaning.
+	= is an assignment operator is used to assign a value and == is a comparison operator is used to compare values.
+
+- Write the correct Java data type for each value.
+25 - int
+99.50 - double
+'A' - char
+"A" - String
+true - boolean
+"true" - String
+50000 - int
+88.75 - double
+'9' - char
+"9876543210" - String
+
+
+
+    
