@@ -1,3 +1,5 @@
+package  ClassAndObject;
+
 class Student {
     String name;
     int age;

@@ -1,3 +1,5 @@
+package ClassAndObject;
+
 public class ObjectInArray {
     public static void main(String[] args) {
         Student[] students = new Student[3];
